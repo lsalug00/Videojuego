@@ -38,7 +38,7 @@ public class Videojuego{
         precio = precioVideojuego;
     }
     
-    public void setTienePaseDeBatalla(){
+    public void alternarTienePaseDeBatalla(){
         tienePaseDeBatalla = !tienePaseDeBatalla;
     }
     
